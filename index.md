@@ -9,6 +9,5 @@ show_call_box: true
 ---
 
 # Erkan ADALI
-# Technical Expert
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Technical Expert
