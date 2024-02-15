@@ -8,6 +8,6 @@ promoted: true
 weight: 1
 ---
 
-**Email:** [erkanadali91@gmail.com](mailto:erkanadali91@gmail.com)    
+**Email:** erkanadali91@gmail.com    
 **GitHub:** [https://github.com/eadali](https://github.com/eadali)   
 
