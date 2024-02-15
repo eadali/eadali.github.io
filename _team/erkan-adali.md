@@ -1,5 +1,5 @@
 ---
-title: "Erkan Adali"
+title: "Erkan ADALI"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/erkan-adali.jpeg"
 jobtitle: "Technical Expert"
@@ -8,6 +8,6 @@ promoted: true
 weight: 1
 ---
 
-**Email:** erkanadali91@gmail.com    
-**GitHub:** [link](https://github.com/eadali)   
+Email: erkanadali91@gmail.com    
+GitHub: [link](https://github.com/eadali)   
 
