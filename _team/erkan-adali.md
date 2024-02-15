@@ -9,5 +9,5 @@ weight: 1
 ---
 
 **Email:** erkanadali91@gmail.com    
-**GitHub:** [https://github.com/eadali](https://github.com/eadali)   
+**GitHub:** [link](https://github.com/eadali)   
 
