@@ -4,7 +4,7 @@ date: 2018-12-28T15:14:39+10:00
 weight: 1
 ---
 
-Business advisory is the final tier of the accounting pyramid.
+Robotics is revolutionizing industries by streamlining processes and increasing efficiency through automation.
 <!--more-->
 
 Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
