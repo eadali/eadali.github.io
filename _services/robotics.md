@@ -9,7 +9,7 @@ Robotics is revolutionizing industries by streamlining processes and increasing 
 
 Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/N4b8kD8Ej_c/0.jpg)](http://www.youtube.com/watch?v=N4b8kD8Ej_c)
 
 # Objectives
 
