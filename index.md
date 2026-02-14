@@ -29,3 +29,12 @@ When I'm not coding, you can find me:
 
 ## 🛠 My Toolkit
 [... the rest of your content ...]
+
+
+---
+layout: home
+title: Machine Localization
+nav_order: 2
+description: "A little bit about me and my work."
+permalink: /
+---
