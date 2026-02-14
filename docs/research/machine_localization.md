@@ -1,5 +1,5 @@
 ---
-title: Child Pages
+title: Machine Localization
 parent: Research
 nav_order: 1
 ---
