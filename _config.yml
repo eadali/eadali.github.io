@@ -1,7 +1,6 @@
 title: Erkan Adali
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-heading_anchors: false
 search_enabled: false
 
 url: https://eadali.github.io
