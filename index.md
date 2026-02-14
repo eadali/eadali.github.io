@@ -31,10 +31,9 @@ When I'm not coding, you can find me:
 [... the rest of your content ...]
 
 
----
-layout: home
-title: Machine Localization
-nav_order: 2
-description: "A little bit about me and my work."
-permalink: /
----
+<iframe
+	src="https://eadali-pisar.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
