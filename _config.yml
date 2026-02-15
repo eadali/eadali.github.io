@@ -4,5 +4,10 @@ theme: just-the-docs
       
 url: https://eadali.github.io
 
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: G-9Q5ZQG39Y2
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 aux_links:
   GitHub: https://github.com/eadali
