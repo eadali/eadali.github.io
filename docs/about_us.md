@@ -15,6 +15,15 @@ layout: default
 </p>
 
 
+<div align="center">
+  <img src="../assets/images/profile-photo.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  
+  ## [Your Name]
+  *Optimist | Developer | Coffee Enthusiast*
+</div>
+
+
+
 # About Me: [Your Name]
 
 ![Professional Headshot](path-to-your-photo.jpg)
