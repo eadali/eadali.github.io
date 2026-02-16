@@ -6,7 +6,7 @@ layout: default
 
 
 <p align="center">
-  <img src="./assets/images/profile-photo.jpg" width="150" alt="Profile Picture">
+  <img src="../assets/images/profile-photo.jpg" width="150" alt="Profile Picture">
 </p>
 
 <p align="center">
