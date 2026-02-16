@@ -5,13 +5,14 @@ layout: default
 ---
 
 
-<div align="center">
-  <img src="./assets/images/profile-photo.jpg" alt="Your Name" style="width: 150px; height: 150px; object-fit: cover;">
-  
-  ## [Your Name]
-  *Optimist | Developer | Coffee Enthusiast*
-</div>
+<p align="center">
+  <img src="./assets/images/profile-photo.jpg" width="150" alt="Profile Picture">
+</p>
 
+<p align="center">
+  <strong>[Your Name]</strong><br>
+  <em>[Your Title or Tagline]</em>
+</p>
 
 
 # About Me: [Your Name]
