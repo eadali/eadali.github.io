@@ -4,22 +4,11 @@ nav_order: 3
 layout: default
 ---
 
-
-<p align="center">
-  <img src="../assets/images/profile-photo.jpg" width="150" alt="Profile Picture">
-</p>
-
-<p align="center">
-  <strong>[Your Name]</strong><br>
-  <em>[Your Title or Tagline]</em>
-</p>
-
-
 <div align="center">
   <img src="../assets/images/profile-photo.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   
-  <h1>ERKAN ADALI</h1>
-  <p><strong>[Senior Perception Engineer]</strong></p>
+  <p><strong>Erkan ADALI<p><strong>
+  <p><strong>Senior Perception Engineer</strong></p>
   <p><em>Tampere, Finland</em></p>
 </div>
 
