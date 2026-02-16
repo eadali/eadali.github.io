@@ -1,5 +1,5 @@
 ---
-title: Machine Localization
+title: Simultaneous Localization and Mapping
 parent: Research
 nav_order: 1
 layout: default
