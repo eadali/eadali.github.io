@@ -18,8 +18,9 @@ layout: default
 <div align="center">
   <img src="../assets/images/profile-photo.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   
-  ## [Your Name]
-  *Optimist | Developer | Coffee Enthusiast*
+  <h1>ERKAN ADALI</h1>
+  <p><strong>[Senior Perception Engineer]</strong></p>
+  <p><em>Tampere, Finland</em></p>
 </div>
 
 
