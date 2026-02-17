@@ -14,7 +14,7 @@ layout: default
   </p>
 </div>
 
-Over 8 years of expertise in building real-time machine perception, sensor fusion, and SLAM for autonomous vehicles and robotics. Proven track record of leading cross-functional teams to deliver production-ready perception stacks that enhance safety and autonomy.
+Over 8 years of expertise in building **real-time machine perception, sensor fusion, and SLAM** for autonomous vehicles and robotics. Proven track record of leading cross-functional teams to deliver production-ready perception stacks that enhance safety and autonomy.
 
 ---
 
