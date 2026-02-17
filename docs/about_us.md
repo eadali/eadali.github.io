@@ -14,10 +14,9 @@ layout: default
 
 
 ### Professional Philosophy
-I believe that code is only as good as its maintainability. In a documentation-first environment, I prioritize:
-1.  **Clarity over Cleverness:** Writing code and docs that the "future me" (and my team) can understand instantly.
-2.  **Scalability:** Building systems that grow without increasing technical debt.
-3.  **Efficiency:** Automating the mundane so we can focus on solving the difficult problems.
+I am committed to creating systems that understand real-world:
+1.  **Data for Experience:** Create systems that use accumulated data to strengthen their understanding over time.
+
 
 ---
 
