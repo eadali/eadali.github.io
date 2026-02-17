@@ -4,6 +4,15 @@ nav_order: 2
 layout: default
 ---
 
+
+<table>
+  <tr>
+    <td><img src="../../assets/images/radar.gif" alt="Static Image" width="400"/></td>
+    <td><img src="../../assets/images/maritime_radar.png" alt="Animated GIF" width="400"/></td>
+  </tr>
+</table>
+
+
 ```mermaid
 flowchart LR
     I["[Input Data]"] --> M[Model]
