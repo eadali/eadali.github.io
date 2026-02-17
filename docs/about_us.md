@@ -7,9 +7,11 @@ layout: default
 <div align="center">
   <img src="../assets/images/profile-photo.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   
-  <p><strong>Erkan ADALI</strong></p>
-  <p><strong>Senior Perception Engineer</strong></p>
-  <p><em>Tampere, Finland</em></p>
+  <p style="margin-top: 10px;">
+    <strong>Erkan ADALI</strong><br>
+    <strong>Senior Perception Engineer</strong><br>
+    <em>Tampere, Finland</em>
+  </p>
 </div>
 
 
