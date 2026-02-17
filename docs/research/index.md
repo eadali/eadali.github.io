@@ -10,6 +10,6 @@ flowchart LR
     M -- Output --> O[output Stream]
     M -- Anomaly Score --> D{Anomaly > Threshold?}
     D -- No --> O
-    D -- Yes --> S[Save Input Datal
+    D -- Yes --> S[Save Input Data]
     S --> MS[" (Main Store)"]
 ```
