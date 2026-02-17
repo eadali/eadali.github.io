@@ -5,6 +5,45 @@ nav_order: 2
 layout: default
 ---
 
+Wide Area Motion Imagery (WAMI) represents the pinnacle of persistent surveillance and large-scale situational awareness. By capturing massive geographic areas in high resolution, these systems provide a "God's eye view" that transforms how we monitor and manage complex environments.
+
+---
+
+## 1. Visual Integration: Understanding the Macro Environment
+
+WAMI systems are designed to **understand the real world at a massive scale**. Unlike traditional sensors that focus on a single narrow "soda straw" view, WAMI captures entire city-sized footprints simultaneously.
+
+By digitizing square kilometers of terrain in real-time, the system gains a holistic understanding of environmental dynamics. It doesn't just see a single vehicle; it sees the entire traffic network, the surrounding infrastructure, and the contextual relationships between every moving element within the frame.
+
+## 2. Historical Archiving: The Persistent Data Ledger
+
+The true power of WAMI lies in its ability to maintain a **persistent historical data repository**. Every frame captured is indexed and stored, creating a digital "rewind button" for the physical world.
+
+This long-term data store allows operators to conduct forensic analysis—tracing a specific entity backward in time to its origin or forward to its destination. Because the system maintains a continuous record of the entire area, no data is lost between frames, ensuring a seamless narrative of events over hours or even days.
+
+## 3. Pattern Detection: Strategic Reasoning and Analysis
+
+Processing terabytes of imagery requires sophisticated **computational reasoning**. WAMI systems utilize advanced logic to filter through the noise and identify significant activities.
+
+The system can strategically analyze flow patterns, detect anomalies, and predict potential bottlenecks or security risks before they escalate. By reasoning through the relationship between different moving parts across the map, the system can provide actionable insights, turning raw pixels into a strategic roadmap for decision-makers.
+
+## 4. Governed Oversight: Controllable and Safe Monitoring
+
+Deploying such powerful observation tools requires a framework focused on **controllability and safety**. WAMI systems are built with strict operational guardrails to ensure they function within legal and ethical boundaries.
+
+* **Privacy Masking:** Implementing automated filters to protect sensitive areas or individuals, ensuring data collection is targeted and compliant.
+* **Access Protocols:** Creating a transparent, audited chain of command for who can view and interact with the data.
+* **Reliable Alerts:** Engineering the system to prioritize safety-critical information, ensuring that human responders are alerted to the most vital events without being overwhelmed by data.
+
+---
+
+
+
+
+
+
+
+
 Precision from Above: Machine Perception in Nadir Imagery
 What is Machine Perception?
 
