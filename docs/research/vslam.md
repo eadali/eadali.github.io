@@ -4,7 +4,45 @@ parent: Research
 nav_order: 1
 layout: default
 ---
+```mermaid
+graph TD
+    %% Input Section
+    Input["📷 Camera Input (Frames)"] --> Pre["Pre-processing (Grayscale, Undistort)"]
 
+    %% Front-End Section
+    subgraph FrontEnd ["Front-End (Tracking)"]
+        Pre --> FE["Feature Extraction (ORB, SIFT, FAST)"]
+        FE --> FM["Feature Matching / Optical Flow"]
+        FM --> ME["Motion Estimation (PnP, Epipolar Geometry)"]
+        ME --> LC["Local Map Tracking"]
+    end
+
+    %% Back-End Section
+    subgraph BackEnd ["Back-End (Optimization)"]
+        LC --> BA["Bundle Adjustment (BA)"]
+        BA --> PoseGraph["Pose Graph Optimization"]
+        PoseGraph --> MapUpdate["Update 3D Points & Trajectory"]
+    end
+
+    %% Loop Closure Section
+    subgraph LoopClosing ["Loop Closure (Global Consistency)"]
+        FE --> BoW["Bag of Words (Place Recognition)"]
+        BoW --> LoopDet["Loop Detection (Seen this before?)"]
+        LoopDet -->|Yes| LoopCorr["Loop Correction"]
+    end
+
+    %% Data Flows
+    MapUpdate -->|"Refined Map"| LC
+    LoopCorr -->|"Global Correction"| PoseGraph
+    MapUpdate --> Output["📍 Estimated Pose & 3D Map"]
+
+    %% Styling
+    style FrontEnd fill:#f9f,stroke:#333,stroke-width:2px
+    style BackEnd fill:#bbf,stroke:#333,stroke-width:2px
+    style LoopClosing fill:#bfb,stroke:#333,stroke-width:2px
+    style Input fill:#fff,stroke:#333
+    style Output fill:#fff,stroke:#333
+```
 
 Visual Simultaneous Localization and Mapping (VSLAM) is the cornerstone of modern spatial intelligence. It is the process that allows a system to navigate an unknown environment while simultaneously building a map of that environment using only visual input.
 
