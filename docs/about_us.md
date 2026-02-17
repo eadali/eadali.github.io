@@ -23,6 +23,6 @@ I am committed to creating systems that understand real-world:
 ---
 
 ### Connect
-I’m always open to discussing new projects or technical challenges. 
-* **Email:** [erkanadali91@gmail.com]
-* **GitHub:** [github.com/eadali]
+I’m always open to discussing new projects, creative collaborations, or technical challenges.
+* **Email:** [erkanadali91@gmail.com](mailto:erkanadali91@gmail.com)
+* **GitHub:** [github.com/eadali](https://github.com/eadali)
