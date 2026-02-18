@@ -10,6 +10,7 @@ layout: default
   <img src="../../assets/images/maritime_radar.png" style="height: 170px; width: auto; object-fit: cover;">
   <img src="../../assets/images/radar.gif" style="height: 170px; width: auto; object-fit: cover;">
 </div>
+*Visualizations sourced from the MOANA dataset (Jang et al., 2025).*
 Real-world data is inherently messy, characterized by its continuous nature, high dimensionality, and inevitable noise. Unlike controlled datasets, information from sensors like cameras arrives as a relentless stream of complex, overlapping signals. A single "snapshot" may contain thousands of features that require simultaneous processing, while environmental interference and hardware limitations further distort the digital representation of physical phenomena.
 
 ---
@@ -34,3 +35,8 @@ When these systems identify inputs that fall within an unseen domain, they do mo
 ---
 ## The Failure of Manual Logic
 Human intuition alone cannot scale to this level of complexity. We simply cannot write enough "if-then" rules to cover the infinite variety of the real world. Because these patterns are too intricate for manual programming, the system must learn to extract its own logic directly from the data it encounters. By moving away from rigid, human-coded instructions and toward a model that learns in a reasonable, data-driven way, the system can discover hidden relationships that our own biases might overlook. This ensures the machine's growth is grounded in actual experience rather than the limited scope of human foresight.
+
+
+## References
+
+Jang, H., et al. (2025). MOANA: Multi-radar dataset for maritime odometry and autonomous navigation application. The International Journal of Robotics Research.
