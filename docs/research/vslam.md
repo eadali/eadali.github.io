@@ -7,7 +7,7 @@ layout: default
 
 
 ## The Trial by Fire – Benchmarking in the Wild
-<img src="../../assets/images/machine.png" style="height: 170px; width: auto; object-fit: cover; border: 1px solid #ddd;">
+<img src="../../assets/images/machine.png" style="height: 250px; width: auto; object-fit: cover; border: 1px solid #ddd;">
 
 In Visual SLAM, lab performance rarely equals field success. To prove robustness, we must use **benchmarking with challenging datasets** that introduce real-world chaos:
 
