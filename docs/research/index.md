@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-## The Complexity of Raw Sensory Perception
+## The Complexity of Sensory Perception
 <div style="display: flex; gap: 10px; align-items: stretch;">
   <img src="../../assets/images/maritime_radar.png" style="height: 170px; width: auto; object-fit: cover;">
   <img src="../../assets/images/radar.gif" style="height: 170px; width: auto; object-fit: cover;">
