@@ -10,8 +10,7 @@ layout: default
   <img src="../../assets/images/maritime_radar.png" style="height: 170px; width: auto; object-fit: cover;">
   <img src="../../assets/images/radar.gif" style="height: 170px; width: auto; object-fit: cover;">
 </div>
-Real-world data is inherently messy, characterized by its continuous nature, high dimensionality, and the inevitable presence of noise. Unlike the clean, discrete datasets often used in controlled environments, information captured via cameras or sensor modalities—such as LiDAR, thermal imaging, or microphones—exists as a relentless stream of overlapping signals. High dimensionality arises because a single "snapshot" of the world contains thousands of features (pixels, frequencies, or coordinates) that an algorithm must interpret simultaneously. Furthermore, environmental interference and hardware limitations introduce noise, creating a significant gap between the raw physical phenomena and the digital representation.
-
+Real-world data is inherently messy, characterized by its continuous nature, high dimensionality, and inevitable noise. Unlike controlled datasets, information from sensors like cameras arrives as a relentless stream of complex, overlapping signals. A single "snapshot" may contain thousands of features that require simultaneous processing, while environmental interference and hardware limitations further distort the digital representation of physical phenomena.
 
 ---
 ## Adapting to Uncertainty in Unseen Domains
