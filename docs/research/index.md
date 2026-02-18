@@ -15,8 +15,8 @@ layout: default
 
 
 <div style="display: flex; gap: 10px; align-items: stretch;">
-  <img src="../../assets/images/maritime_radar.png" style="height: 300px; width: auto; object-fit: cover;">
-  <img src="../../assets/images/radar.gif" style="height: 300px; width: auto; object-fit: cover;">
+  <img src="../../assets/images/maritime_radar.png" style="height: 200px; width: auto; object-fit: cover;">
+  <img src="../../assets/images/radar.gif" style="height: 200px; width: auto; object-fit: cover;">
 </div>
 
 
