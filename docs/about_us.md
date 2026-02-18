@@ -21,4 +21,4 @@ Over 10 years of expertise in building **real-time machine perception, sensor fu
 ### Connect
 I’m always open to discussing new projects, creative collaborations, or technical challenges.
 * **Email:** [erkanadali91@gmail.com](mailto:erkanadali91@gmail.com)
-* **GitHub:** [github.com/eadali](https://github.com/eadali)
+* **LinkedIn:** [linkedin.com/in/erkan-adali](https://www.linkedin.com/in/erkan-adali/)
