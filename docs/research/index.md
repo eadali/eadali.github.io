@@ -6,10 +6,19 @@ layout: default
 
 
 ## The Complexity of Sensory Perception
-<div style="display: flex; gap: 10px; align-items: stretch;">
+<!-- <div style="display: flex; gap: 10px; align-items: stretch;">
   <img src="../../assets/images/maritime_radar.png" style="height: 170px; width: auto; object-fit: cover;">
   <img src="../../assets/images/radar.gif" style="height: 170px; width: auto; object-fit: cover;">
-</div>
+</div> -->
+<figure style="text-align: center; margin-bottom: 20px;">
+  <div style="display: flex; gap: 10px; justify-content: center; align-items: stretch;">
+    <img src="../../assets/images/maritime_radar.png" style="height: 170px; width: auto; object-fit: cover; border: 1px solid #ddd;">
+    <img src="../../assets/images/radar.gif" style="height: 170px; width: auto; object-fit: cover; border: 1px solid #ddd;">
+  </div>
+  <figcaption style="margin-top: 10px; font-size: 0.9em; color: #555; font-style: italic;">
+    Figure 1: Multi-modal sensor streams (LiDAR and Radar) from the MOANA dataset (Jang et al., 2025).
+  </figcaption>
+</figure>
 *Visualizations sourced from the MOANA dataset (Jang et al., 2025).*
 Real-world data is inherently messy, characterized by its continuous nature, high dimensionality, and inevitable noise. Unlike controlled datasets, information from sensors like cameras arrives as a relentless stream of complex, overlapping signals. A single "snapshot" may contain thousands of features that require simultaneous processing, while environmental interference and hardware limitations further distort the digital representation of physical phenomena.
 
