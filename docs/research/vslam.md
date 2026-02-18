@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-## The Trial by Fire – Benchmarking in the Wild
+## Benchmarking in the Wild
 In the world of Visual SLAM, performance on paper rarely translates to success in the field. To truly understand the robustness of an algorithm, we must move beyond pristine, synthetic environments and lean into **benchmarking with challenging datasets**. These datasets are designed to push sensors and software to their breaking points by introducing real-world chaos:
 
 * **Dynamic Environments:** Moving objects like pedestrians or vehicles create "outliers" in the data. These can corrupt the map if the system mistakenly uses a moving car as a fixed visual landmark.
