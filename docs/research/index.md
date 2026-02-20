@@ -16,9 +16,10 @@ layout: default
 </figure>
 Real-world data is inherently messy, characterized by its continuous nature, high dimensionality, and inevitable noise. A single "snapshot" may contain thousands of features that require simultaneous processing, while environmental interference and hardware limitations further distort the digital representation of physical phenomena.
 
+
 ---
-## Adapting to Uncertainty in Unseen Domains
-Even with sophisticated capabilities, modern systems often encounter unseen domains—environments or scenarios that fall outside their initial training data. In these unfamiliar contexts, the inherent noise and complexity of real-world data can lead to high uncertainty, making automated interpretations unreliable. To maintain safety and operational integrity, it is crucial for a system to recognize its own limitations; when the gap between its internal logic and the raw sensory input becomes too vast, the system must proactively request help from a supervisor. This "human-in-the-loop" approach ensures that expert intervention can bridge the gap in understanding, providing the necessary guidance to navigate novel or high-stakes situations that the system cannot yet confidently interpret.
+## Beyond Detection
+While YOLO-like models already detect objects better than humans, identification is now a baseline. The real value lies in reasoning. True intelligence isn’t just labeling a scene, but understanding the context and logical relationships between objects to predict what happens next.
 
 
 ---
