@@ -14,7 +14,7 @@ layout: default
     Multi-modal sensor streams (Camera and Radar) from the MOANA dataset (Jang et al., 2025).
   </figcaption>
 </figure>
-Real-world data is inherently messy, characterized by its continuous nature, high dimensionality, and inevitable noise. Unlike controlled datasets, information from sensors like cameras arrives as a relentless stream of complex, overlapping signals. A single "snapshot" may contain thousands of features that require simultaneous processing, while environmental interference and hardware limitations further distort the digital representation of physical phenomena.
+Real-world data is inherently messy, characterized by its continuous nature, high dimensionality, and inevitable noise. A single "snapshot" may contain thousands of features that require simultaneous processing, while environmental interference and hardware limitations further distort the digital representation of physical phenomena.
 
 ---
 ## Adapting to Uncertainty in Unseen Domains
