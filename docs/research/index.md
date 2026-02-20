@@ -7,8 +7,8 @@ layout: default
 
 ## The Complexity of Sensory Perception
 <figure style="text-align: center; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: center; align-items: stretch;">
-    <img src="../../assets/images/radar.gif" style="height: 170px; width: auto; object-fit: cover; border: 1px solid #ddd;">
+  <div style="display: flex; justify-content: center;">
+    <img src="../../assets/images/radar.gif" style="border: 1px solid #ddd;">
   </div>
   <figcaption style="margin-top: 10px; font-size: 0.9em; color: #555; font-style: italic;">
     Radar sensor stream from the MOANA dataset (Jang et al., 2025).
