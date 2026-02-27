@@ -24,7 +24,7 @@ While modern computer vision models already outperform humans, visual recognitio
 
 ---
 ## Long-Term Memory
-Intelligence requires continuity. Real-world environments unfold over time, demanding systems that retain and update information across sequences. Without memory, each observation is isolated. With persistent memory, systems maintain context, track evolving patterns, and enable sustained reasoning beyond single-frame perception.
+Real-world environments evolve over time, necessitating architectures that store, retrieve, and update state information across sequential inputs. Without a persistent memory mechanism, each observation is processed in isolation. With structured long-term memory, systems preserve contextual state, track dynamic patterns, and support multi-step inference beyond single-frame or single-event processing.
 
 
 
