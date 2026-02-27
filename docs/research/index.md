@@ -24,6 +24,7 @@ While YOLO-like models already detect objects better than humans, identification
 
 ---
 ## Smart Curation: Closing the Learning Loop
+```
 flowchart LR
     I["Input Data"] --> M[Model]
     M --> O["Standard Output"]
@@ -39,6 +40,7 @@ flowchart LR
     
     style S fill:#f96,stroke:#333
     style H fill:#bbf,stroke:#333
+```
 When encountering unknown scenarios, the system doesn’t just ask for help—it flags and archives the sensor data as a high-value edge case. These samples are stored for future training, ensuring human feedback permanently expands the system's robustness.
 
 
