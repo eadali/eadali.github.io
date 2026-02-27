@@ -19,12 +19,12 @@ Real-world data is inherently messy, characterized by its continuous nature, hig
 
 ---
 ## Beyond Detection
-While YOLO-like models already detect objects better than humans, identification is now a baseline. The real value lies in reasoning. True intelligence isn’t just labeling a scene, but understanding the context and logical relationships between objects to predict what happens next.
+While modern computer vision models already outperform humans, visual recognition is now a baseline. The real value lies in reasoning. True intelligence isn’t just labeling a scene, but understanding the context and logical relationships to predict what happens next.
 
 
 ---
 ## Smart Curation: Closing the Learning Loop
-```
+```mermaid
 flowchart LR
     I["Input Data"] --> M[Model]
     M --> O["Standard Output"]
