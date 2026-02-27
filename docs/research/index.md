@@ -23,17 +23,23 @@ While YOLO-like models already detect objects better than humans, identification
 
 
 ---
-## Automated Data Curation and Continuous Learning
-```mermaid
+## Smart Curation: Closing the Learning Loop
 flowchart LR
-    I["[Input Data]"] --> M[Model]
-    M -- Output --> O[output Stream]
-    M -- Anomaly Score --> D{Anomaly > Threshold?}
-    D -- No --> O
-    D -- Yes --> S[Save Input Data]
-    S --> MS[" (Main Store)"]
-```
-When these systems identify inputs that fall within an unseen domain, they do more than just request intervention. The detection of such unfamiliar scenarios triggers an automated process to archive the relevant sensory inputs, effectively flagging them as high-value edge cases. By selectively capturing these challenging or novel samples from the high-dimensional sensor stream, the system builds a specialized repository for future training cycles. This mechanism ensures that once a human supervisor provides the necessary guidance, the specific encounter is not lost; instead, it is transformed into a learning opportunity that progressively expands the system's robustness and minimizes future uncertainty.
+    I["Input Data"] --> M[Model]
+    M --> O["Standard Output"]
+    
+    M -- "Unseen Domain" --> D{"Anomaly Threshold"}
+    
+    D -- "High Value" --> S["Archive Edge Case"]
+    S --> MS[("Specialized Repository")]
+    
+    MS --> H["Human Guidance"]
+    H --> T["Model Retraining"]
+    T --> M
+    
+    style S fill:#f96,stroke:#333
+    style H fill:#bbf,stroke:#333
+When encountering unknown scenarios, the system doesn’t just ask for help—it flags and archives the sensor data as a high-value edge case. These samples are stored for future training, ensuring human feedback permanently expands the system's robustness.
 
 
 ---
