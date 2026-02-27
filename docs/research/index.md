@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-## The Complexity of Sensory Perception
+# The Complexity of Sensory Perception
 <figure style="text-align: center; margin-bottom: 20px;">
   <div style="display: flex; justify-content: center;">
     <img src="../../assets/images/radar.gif" style="border: 1px solid #ddd;">
