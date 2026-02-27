@@ -23,27 +23,8 @@ While modern computer vision models already outperform humans, visual recognitio
 
 
 ---
-## Smart Curation: Closing the Learning Loop
-```mermaid
-flowchart LR
-    subgraph Processing
-        I["Input Data"] --> M[Model]
-        M --> O["Standard Output"]
-    end
-
-    subgraph Feedback_Loop
-        M -- "Unseen Domain" --> D{"Anomaly Threshold"}
-        D -- "High Value" --> S["Archive Edge Case"]
-        S --> MS[("Specialized Repository")]
-        MS --> H["Human Guidance"]
-        H --> T["Model Retraining"]
-        T --> M
-    end
-
-    style S fill:#f96,stroke:#333
-    style H fill:#bbf,stroke:#333
-```
-When encountering unknown scenarios, the system doesn’t just ask for help—it flags and archives the sensor data as a high-value edge case. These samples are stored for future training, ensuring human feedback permanently expands the system's robustness.
+## Long-Term Memory
+Intelligence requires continuity. Real-world environments unfold over time, demanding systems that retain and update information across sequences. Without memory, each observation is isolated. With persistent memory, systems maintain context, track evolving patterns, and enable sustained reasoning beyond single-frame perception.
 
 
 
