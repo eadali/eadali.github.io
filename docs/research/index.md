@@ -46,10 +46,6 @@ flowchart LR
 When encountering unknown scenarios, the system doesn’t just ask for help—it flags and archives the sensor data as a high-value edge case. These samples are stored for future training, ensuring human feedback permanently expands the system's robustness.
 
 
----
-## The Failure of Manual Logic
-Human intuition alone cannot scale to this level of complexity. We simply cannot write enough "if-then" rules to cover the infinite variety of the real world. Because these patterns are too intricate for manual programming, the system must learn to extract its own logic directly from the data it encounters. By moving away from rigid, human-coded instructions and toward a model that learns in a reasonable, data-driven way, the system can discover hidden relationships that our own biases might overlook. This ensures the machine's growth is grounded in actual experience rather than the limited scope of human foresight.
-
 
 ## References
 * Jang, H., et al. (2025). MOANA: Multi-radar dataset for maritime odometry and autonomous navigation application. The International Journal of Robotics Research.
