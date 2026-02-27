@@ -26,18 +26,20 @@ While modern computer vision models already outperform humans, visual recognitio
 ## Smart Curation: Closing the Learning Loop
 ```mermaid
 flowchart LR
-    I["Input Data"] --> M[Model]
-    M --> O["Standard Output"]
-    
-    M -- "Unseen Domain" --> D{"Anomaly Threshold"}
-    
-    D -- "High Value" --> S["Archive Edge Case"]
-    S --> MS[("Specialized Repository")]
-    
-    MS --> H["Human Guidance"]
-    H --> T["Model Retraining"]
-    T --> M
-    
+    subgraph Processing
+        I["Input Data"] --> M[Model]
+        M --> O["Standard Output"]
+    end
+
+    subgraph Feedback_Loop
+        M -- "Unseen Domain" --> D{"Anomaly Threshold"}
+        D -- "High Value" --> S["Archive Edge Case"]
+        S --> MS[("Specialized Repository")]
+        MS --> H["Human Guidance"]
+        H --> T["Model Retraining"]
+        T --> M
+    end
+
     style S fill:#f96,stroke:#333
     style H fill:#bbf,stroke:#333
 ```
