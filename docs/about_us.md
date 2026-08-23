@@ -5,7 +5,7 @@ layout: default
 ---
 
 <div align="center">
-  <img src="../assets/images/profile-photo.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  <img src="../assets/images/_profile-photo.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   
   <p style="margin-top: 10px;">
     <strong>Name</strong><br>
