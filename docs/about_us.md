@@ -8,9 +8,9 @@ layout: default
   <img src="../assets/images/profile-photo.jpg" alt="Your Name" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   
   <p style="margin-top: 10px;">
-    <strong>Erkan ADALI</strong><br>
-    <strong>Senior Perception Engineer</strong><br>
-    <em>Tampere, Finland</em>
+    <strong>Name</strong><br>
+    <strong>Title</strong><br>
+    <em>City, Country</em>
   </p>
 </div>
 
@@ -20,5 +20,5 @@ Over 10 years of expertise in building **real-time machine perception, sensor fu
 
 ### Connect
 I’m always open to discussing new projects, creative collaborations, or technical challenges.
-* **Email:** [erkanadali91@gmail.com](mailto:erkanadali91@gmail.com)
-* **LinkedIn:** [linkedin.com/in/erkan-adali](https://www.linkedin.com/in/erkan-adali/)
+* **Email:** [email](mailto:email)
+* **LinkedIn:** [text](link)
